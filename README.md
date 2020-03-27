@@ -29,5 +29,5 @@ Please refer to [1] for the dataset information.
 
 
 ### Citation
-Please cite us if you are using our model in your research works:
-  [1] Leslie Ching Ow Tiong, Andrew Beng Jin Teoh and Yunli Lee, "Periocular Recognition in the Wild with Orthogonal Combination of Local Binary Coded Pattern in Dual-stream Convolutional Neural Network," International Conference on Biometrics (ICB), Crete, Greece, 2019, pp. 1-6.
+Please cite us if you are using our model in your research works: <br />
+[1] (https://ieeexplore.ieee.org/document/8987278) Leslie Ching Ow Tiong, Andrew Beng Jin Teoh and Yunli Lee, "Periocular Recognition in the Wild with Orthogonal Combination of Local Binary Coded Pattern in Dual-stream Convolutional Neural Network," International Conference on Biometrics (ICB), Crete, Greece, 2019, pp. 1-6.
