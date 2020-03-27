@@ -5,7 +5,7 @@ This work contributes a novel descriptor OC-LBCP and Dual-stream CNN for periocu
 
 We also provide the codes as follows:
   1) OC-LBCP (see [OC-LBCP](https://github.com/tiongleslie/crystal-structure-classification/tree/master/OC-LBCP))
-  2) Pre-trained model of Dual-stream CNN (see [Dual-stream CNN](https://github.com/tiongleslie/crystal-structure-classification/tree/master/Dual-stream CNN))
+  2) Pre-trained model of Dual-stream CNN (see [DSCNN](https://github.com/tiongleslie/crystal-structure-classification/tree/master/DSCNN))
 
 ### Compatibility
 We tested the codes with:
