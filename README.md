@@ -12,7 +12,7 @@ We also provide the codes as follows:
 ### Compatibility
 We tested the codes with:
   1) Tensorflow-GPU 1.13.1 under Ubuntu OS 18.04 LTS and Anaconda3 (Python 3.7)
-  1) Tensorflow-GPU 1.13.1/Tensorflow 1.13.1 under Windows 10 and Anaconda3 (Python 3.7)
+  2) Tensorflow-GPU 1.13.1/Tensorflow 1.13.1 under Windows 10 and Anaconda3 (Python 3.7)
 
 
 ### Requirements
@@ -30,4 +30,4 @@ Please refer to [1] for the dataset information.
 
 ### Citation
 Please cite us if you are using our model in your research works:
-[1] Leslie Ching Ow Tiong, Andrew Beng Jin Teoh and Yunli Lee, "Periocular Recognition in the Wild with Orthogonal Combination of Local Binary Coded Pattern in Dual-stream Convolutional Neural Network," International Conference on Biometrics (ICB), Crete, Greece, 2019, pp. 1-6.
+  [1] Leslie Ching Ow Tiong, Andrew Beng Jin Teoh and Yunli Lee, "Periocular Recognition in the Wild with Orthogonal Combination of Local Binary Coded Pattern in Dual-stream Convolutional Neural Network," International Conference on Biometrics (ICB), Crete, Greece, 2019, pp. 1-6.
