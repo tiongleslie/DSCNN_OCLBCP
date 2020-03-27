@@ -1,5 +1,6 @@
 # Periocular in the wild: Dual-stream CNN and OC-LBCP
 
+
 ### Introduction
 This work contributes a novel descriptor OC-LBCP and Dual-stream CNN for periocular in the wild.
 
@@ -7,10 +8,12 @@ We also provide the codes as follows:
   1) OC-LBCP (see [OC-LBCP](https://github.com/tiongleslie/crystal-structure-classification/tree/master/OC-LBCP))
   2) Pre-trained model of Dual-stream CNN (see [DSCNN](https://github.com/tiongleslie/crystal-structure-classification/tree/master/DSCNN))
 
+
 ### Compatibility
 We tested the codes with:
   1) Tensorflow-GPU 1.13.1 under Ubuntu OS 18.04 LTS and Anaconda3 (Python 3.7)
   1) Tensorflow-GPU 1.13.1/Tensorflow 1.13.1 under Windows 10 and Anaconda3 (Python 3.7)
+
 
 ### Requirements
   1) [Anaconda3](https://www.anaconda.com/distribution/#download-section)
