@@ -6,7 +6,7 @@ This work contributes a novel descriptor OC-LBCP and Dual-stream CNN for periocu
 
 We also provide the codes as follows:
   1) OC-LBCP (see [OC-LBCP](https://github.com/tiongleslie/DSCNN_OCLBCP/tree/master/OC-LBCP))
-  2) Pre-trained model of Dual-stream CNN (see [DSCNN](https://github.com/tiongleslie/DSCNN_OCLBCP/tree/master/OC-LBCP))
+  2) Pre-trained model of Dual-stream CNN for periocular in the wild (see [DSCNN](https://github.com/tiongleslie/DSCNN_OCLBCP/tree/master/OC-LBCP))
 
 
 ### Compatibility
