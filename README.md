@@ -26,7 +26,7 @@ We tested the codes with:
 
 
 ### Dataset
-Please refer to [1] for the dataset information.
+Please refer to our paper [1] for the dataset information.
 
 
 ### Citation
