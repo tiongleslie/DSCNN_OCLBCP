@@ -120,7 +120,7 @@ class DSCNN_utils(object):
         plt.subplots_adjust(0.15, 0, .85, .8, 0.05, 0.05)
 
         names = DSCNN_utils.ref_list()
-        string = "Sample " + str(num + 1) + "\nRecognised: " + str(names[np.argmax(result)]) + "\n\n"
+        string = "Sample " + str(num + 1) + "\nRecognised: " + str(names[int(np.argmax(result))]) + "\n\n"
         print(string)
 
         if mode is 1:
