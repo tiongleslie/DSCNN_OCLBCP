@@ -58,10 +58,10 @@ class DSCNN_utils(object):
         right_base2 = r_base2['feature2']
 
         # Calculate score matrix
-        left_1 = DSCNN_utils.cosine_similar(left_feature1, left_base1)
-        left_2 = DSCNN_utils.cosine_similar(left_feature2, left_base2)
-        right_1 = DSCNN_utils.cosine_similar(right_feature1, right_base1)
-        right_2 = DSCNN_utils.cosine_similar(right_feature2, right_base2)
+        left_1 = DSCNN_utils.cosine_similarity(left_feature1, left_base1)
+        left_2 = DSCNN_utils.cosine_similarity(left_feature2, left_base2)
+        right_1 = DSCNN_utils.cosine_similarity(right_feature1, right_base1)
+        right_2 = DSCNN_utils.cosine_similarity(right_feature2, right_base2)
 
         final_score = (left_1 + left_2) + (right_1 + right_2)
 
@@ -95,7 +95,7 @@ class DSCNN_utils(object):
         return final_decision
 
     @staticmethod
-    def cosine_similar(feat_f, base_f):
+    def cosine_similarity(feat_f, base_f):
         [x, _] = feat_f.shape
         scores = np.zeros((x, len(base_f)), dtype=np.float32)
 
