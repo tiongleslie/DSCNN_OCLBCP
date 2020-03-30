@@ -26,7 +26,7 @@ We tested the codes with:
   4) [SciPy](https://anaconda.org/anaconda/scipy)
   5) [Matplotlib](https://anaconda.org/conda-forge/matplotlib)
   6) [Numpy 1.16.4](https://pypi.org/project/numpy/1.16.4/)
-  7) MATLAB
+  7) [MATLAB](https://uk.mathworks.com/products/matlab.html)
 
 
 ### Dataset
