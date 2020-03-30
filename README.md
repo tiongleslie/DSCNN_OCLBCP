@@ -7,12 +7,11 @@ This work contributes a novel descriptor OC-LBCP and Dual-stream CNN for periocu
 We also provide the codes as follows:
   1) OC-LBCP (see [OC-LBCP](https://github.com/tiongleslie/DSCNN_OCLBCP/tree/master/OC-LBCP))
   2) Pre-trained model of Dual-stream CNN for periocular in the wild (see [DSCNN](https://github.com/tiongleslie/DSCNN_OCLBCP/tree/master/DSCNN))
-<br />
+
 
 
 ### Pre-trained Model
 Please download the pre-trained model from .
-<br />
 
 
 
@@ -25,7 +24,7 @@ We tested the codes with:
   
 #### OCLBCP
   1) MATLAB 2018b and MATLAB 2019b
-<br />
+
 
 
 ### Requirements
@@ -36,12 +35,11 @@ We tested the codes with:
   5) [Matplotlib](https://anaconda.org/conda-forge/matplotlib)
   6) [Numpy 1.16.4](https://pypi.org/project/numpy/1.16.4/)
   7) [MATLAB](https://uk.mathworks.com/products/matlab.html)
-<br />
+
 
 
 ### Dataset
 Please refer to our paper [1] for the dataset information.
-<br />
 
 
 
