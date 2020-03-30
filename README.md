@@ -15,8 +15,13 @@ Please download the pre-trained model from .
 
 ### Compatibility
 We tested the codes with:
+
+#### DSCNN
   1) Tensorflow-GPU 1.13.1 under Ubuntu OS 18.04 LTS and Anaconda3 (Python 3.7)
   2) Tensorflow-GPU 1.13.1/Tensorflow 1.13.1 under Windows 10 and Anaconda3 (Python 3.7)
+  
+#### OCLBCP
+  1) MATLAB 2018b and MATLAB 2019b
 
 
 ### Requirements
