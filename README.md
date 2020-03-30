@@ -13,6 +13,17 @@ We also provide the codes as follows:
 ### Pre-trained Model
 Please download the pre-trained model from [Google Drive](https://drive.google.com/drive/folders/1ktAxZYLMIRLjVQw6h89Er42XjfLvtRJ6?usp=sharing).
 
+Please ensure you set up our directories like this:
+```
+DSCNN_OCLBCP
+└── model_result
+    └── mat
+    └── save
+└── test_data
+    └── descriptor
+    └── rgb
+```
+
 
 
 ### Compatibility
