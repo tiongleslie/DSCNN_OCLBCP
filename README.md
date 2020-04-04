@@ -56,4 +56,4 @@ Please refer to our paper [1] for the dataset information.
 Please cite us if you are using our model or dataset in your research work: <br />
 
 
-  [1] Leslie Ching Ow Tiong, Andrew Beng Jin Teoh and Yunli Lee, “Periocular Recognition in the Wild: Implementation of RGB-OCLBCP Dual-Stream CNN”, Appl. Sci., 2019, 9(13), (see [link](https://doi.org/10.3390/app9132709)).
+  [1] Leslie Ching Ow Tiong, Andrew Beng Jin Teoh and Yunli Lee, “Periocular Recognition in the Wild: Implementation of RGB-OCLBCP Dual-Stream CNN”, *Appl. Sci.*, 2019, 9(13), (see [link](https://doi.org/10.3390/app9132709)).
