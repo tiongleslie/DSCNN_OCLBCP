@@ -49,7 +49,7 @@ We tested the codes with:
 
 ### Dataset
 Please refer to our paper [1] for the dataset information.
-The dataset can be downalod from [Dropbox](https://www.dropbox.com/sh/vgg709to25o01or/AAB4-20q0nXYmgDPTYdBejg0a?dl=0).
+The dataset is provided in [Dropbox](https://www.dropbox.com/sh/vgg709to25o01or/AAB4-20q0nXYmgDPTYdBejg0a?dl=0).
 
 
 
