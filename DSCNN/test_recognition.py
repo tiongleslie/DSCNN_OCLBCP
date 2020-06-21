@@ -94,10 +94,10 @@ def main(args):
             right_test_image_batch_r = right_raw_data.read_images_by_batch(right_test_range_r, batch_size)
             right_test_image_batch_d = right_des_data.read_images_by_batch(right_test_range_d, batch_size)
 
-        left_feature1, left_feature2 = DSCNN_utils.test_DSCNN(path="model_result/save/left/model",
+        left_feature1, left_feature2 = DSCNN_utils.test_DSCNN(path="model_result/save/left",
                                                               test_image_batch_r=left_test_image_batch_r,
                                                               test_image_batch_d=left_test_image_batch_d)
-        right_feature1, right_feature2 = DSCNN_utils.test_DSCNN(path="model_result/save/right/model",
+        right_feature1, right_feature2 = DSCNN_utils.test_DSCNN(path="model_result/save/right",
                                                                 test_image_batch_r=right_test_image_batch_r,
                                                                 test_image_batch_d=right_test_image_batch_d)
         result = DSCNN_utils.recognition(left_feature1, left_feature2, right_feature1, right_feature2)
