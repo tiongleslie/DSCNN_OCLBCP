@@ -56,5 +56,4 @@ The dataset is provided in [Dropbox](https://www.dropbox.com/sh/vgg709to25o01or/
 ### Citation
 Please cite us if you are using our model or dataset in your research work: <br />
 
-
-  [1] Leslie Ching Ow Tiong, Hyuk Jun Yoo, Na Yeon Kim, Kwan-Young Lee, Sang Soo Han, and Donghun Kim, “Machine vision for vial positioning detection toward the safe automation of material synthesis”, *arXiv*, 2022; (see [link](https://arxiv.org/abs/2206.07272)).
+  [1] Leslie Ching Ow Tiong, Yunli Lee and Andrew Beng Jin Teoh, “Periocular Recognition in the Wild: Implementation of RGB-OCLBCP Dual-Stream CNN”, *Appl. Sci.*, 2019, 9(13), 2709; (see [link](https://doi.org/10.3390/app9132709)).
