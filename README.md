@@ -56,4 +56,4 @@ The dataset is provided in [Dropbox](https://www.dropbox.com/sh/vgg709to25o01or/
 ### Citation
 Please cite us if you are using our model or dataset in your research work: <br />
 
-  [1] Leslie Ching Ow Tiong, Yunli Lee and Andrew Beng Jin Teoh, “Periocular Recognition in the Wild: Implementation of RGB-OCLBCP Dual-Stream CNN”, *Appl. Sci.*, 2019, 9(13), 2709; (see [link](https://doi.org/10.3390/app9132709)).
+  [1] Leslie Ching Ow Tiong, Andrew Beng Jin Teoh and Yunli Lee, “Periocular Recognition in the Wild with Orthogonal Combination of Local Binary Coded Pattern in Dual-stream Convolutional Neural Network”, *International Conference on Biometrics (ICB)*, Crete, Greece, 2019; (see [link](https://ieeexplore.ieee.org/abstract/document/8987278)).
